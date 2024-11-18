@@ -165,7 +165,12 @@ li a:hover {
         font-weight: bold;
         color: #1d2226;
         font-size: .8em;
+        background: none;
 
+    }
+
+    .submenu li a:hover {
+        text-decoration: underline;
     }
 
     .submenu p {
